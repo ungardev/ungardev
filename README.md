@@ -46,7 +46,7 @@ Desarrollador enfocado en la construcción de aplicaciones web escalables y la a
 ### 📫 Contacto
 
 - **Ubicación:** Venezuela 🇻🇪
-- **LinkedIn:** [https://www.linkedin.com/in/ungar-villamizar-mirabal/]
+- **LinkedIn:** https://www.linkedin.com/in/ungar-villamizar-mirabal/
 - **Email:** [ungardev@outlook.com](mailto:ungardev@outlook.com)
 
 ---
