@@ -1,4 +1,4 @@
-# Hola, soy Ungar Eduardo Villamizar 👋
+# Ungar Villamizar
 
 ### Junior Full Stack Developer | Especialista en Python & React
 
