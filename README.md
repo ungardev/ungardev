@@ -38,9 +38,9 @@ Desarrollador enfocado en la construcción de aplicaciones web escalables y la a
 
 ### 📊 Estadísticas de GitHub
 
-![Estadísticas de Ungar](https://github-readme-stats.vercel.app/api?username=ungardev&show_icons=true&theme=tokyonight&v=final)
+![Estadísticas de Ungar](https://github-readme-stats-eight-theta.vercel.app/api?username=ungardev&show_icons=true&theme=tokyonight)
 
-![Lenguajes de Ungar](https://github-readme-stats.vercel.app/api/top-langs/?username=ungardev&layout=compact&theme=tokyonight&v=final)
+![Lenguajes de Ungar](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ungardev&layout=compact&theme=tokyonight)
 
 ---
 
